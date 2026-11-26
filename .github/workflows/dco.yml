@@ -1,0 +1,11 @@
+name: DCO
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  dco:
+    uses: EduWISP/.github/.github/workflows/dco.yml@main

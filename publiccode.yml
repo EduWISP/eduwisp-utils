@@ -1,0 +1,54 @@
+# publiccode.yml — metadati per il catalogo Developers Italia / metadata for the Developers Italia catalogue
+publiccodeYmlVersion: "0"
+
+name: eduwisp-utils
+url: "https://github.com/EduWISP/eduwisp-utils"
+landingURL: "https://eduwisp.github.io/docs/architettura/repository/"
+platforms:
+  - web
+  - linux
+
+categories:
+  - it-development
+
+developmentStatus: concept
+softwareType: "library"
+
+intendedAudience:
+  scope:
+    - education
+  countries:
+    - IT
+
+description:
+  it:
+    shortDescription: "EduWISP — Utility condivise"
+    longDescription: "Utility condivise tra i moduli EduWISP: componenti comuni, controlli di qualità, strumenti per i test, workflow CI riutilizzabili. Fa parte di EduWISP, piattaforma open source e gratuita per la gestione dei dispositivi digitali di proprietà delle scuole, con MDM, gestione scolastica, Family Control e prevenzione del cyberbullismo. Il progetto è in fase di progettazione e rispetta come vincolo bloccante il GDPR e la normativa italiana su privacy e minori. Documentazione: https://eduwisp.github.io/docs/"
+    documentation: "https://eduwisp.github.io/docs/"
+    features:
+      - "Utility condivise"
+  en:
+    shortDescription: "EduWISP — Shared utilities"
+    longDescription: "Utilities shared across EduWISP modules: common components, QA checks, test helpers, reusable CI workflows. Part of EduWISP, a free and open-source platform to manage school-owned digital devices, with MDM, school management, family control and cyberbullying prevention. The project is in the design phase and treats GDPR and Italian law on privacy and minors as a blocking constraint. Documentation: https://eduwisp.github.io/docs/en/"
+    documentation: "https://eduwisp.github.io/docs/en/"
+    features:
+      - "Shared utilities"
+
+legal:
+  license: AGPL-3.0-or-later
+  mainCopyrightOwner: Michele Salerno
+
+organisation:
+  name: EduWISP
+  uri: "https://github.com/EduWISP"
+
+maintenance:
+  type: community
+  contacts:
+    - name: Michele Salerno
+
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - it
+    - en
