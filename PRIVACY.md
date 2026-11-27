@@ -1,6 +1,6 @@
 # Privacy — eduwisp-utils
 
-Documento vivo: va aggiornato a ogni modifica che riguarda dati personali. Riferimenti: [Quadro normativo](https://eduwisp.github.io/docs/sicurezza-privacy/quadro-normativo/), [Requisiti di conformità](https://eduwisp.github.io/docs/requisiti/requisiti/#requisiti-di-conformità).
+Documento vivo: va aggiornato a ogni modifica che riguarda dati personali. Riferimenti: [Quadro normativo](https://eduwisp.org/docs/sicurezza-privacy/quadro-normativo/), [Requisiti di conformità](https://eduwisp.org/docs/requisiti/requisiti/#requisiti-di-conformità).
 
 ## Dati personali previsti
 
