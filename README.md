@@ -6,9 +6,9 @@
 
 Utility condivise tra i moduli EduWISP: componenti comuni, controlli di qualità, strumenti per i test, workflow CI riutilizzabili.
 
-> 🚧 **Stato: progettazione.** Questo repository non contiene ancora codice. La progettazione è nella [documentazione EduWISP](https://eduwisp.org/docs/architettura/repository/).
+> 🧪 **Stato: prototipo v0.** Contiene l'**endpoint di stato** `/health/` (ADR-0016), usato da Monit e dalla procedura di aggiornamento. Vedi [`docs/developer/`](docs/developer/).
 
-🇬🇧 *Utilities shared across EduWISP modules: common components, QA checks, test helpers, reusable CI workflows. **Status: design phase**, no code yet. See the [design docs](https://eduwisp.org/docs/en/architecture/repositories/).*
+🇬🇧 *Utilities shared across EduWISP modules: common components, QA checks, test helpers, reusable CI workflows. **Status: prototype v0**: provides the `/health/` status endpoint used by Monit and by the upgrade procedure.*
 
 ## Documentazione / Documentation
 
