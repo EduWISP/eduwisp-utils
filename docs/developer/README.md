@@ -7,7 +7,7 @@
 INSTALLED_APPS = [..., "eduwisp_utils"]
 
 # urls.py
-path("", include("eduwisp_utils.urls")),
+urlpatterns += [path("", include("eduwisp_utils.urls"))]
 ```
 
 Controlli, tutti obbligatori:
